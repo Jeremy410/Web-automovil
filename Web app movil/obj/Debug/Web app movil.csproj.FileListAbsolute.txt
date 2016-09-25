@@ -1,0 +1,12 @@
+c:\users\20151521\documents\visual studio 2013\Projects\Web app movil\Web app movil\bin\Web app movil.dll.config
+c:\users\20151521\documents\visual studio 2013\Projects\Web app movil\Web app movil\bin\Web app movil.dll
+c:\users\20151521\documents\visual studio 2013\Projects\Web app movil\Web app movil\bin\Web app movil.pdb
+c:\users\20151521\documents\visual studio 2013\Projects\Web app movil\Web app movil\obj\Debug\Web app movil.csprojResolveAssemblyReference.cache
+c:\users\20151521\documents\visual studio 2013\Projects\Web app movil\Web app movil\obj\Debug\Web app movil.dll
+c:\users\20151521\documents\visual studio 2013\Projects\Web app movil\Web app movil\obj\Debug\Web app movil.pdb
+C:\Users\Jeremy Lopez\Downloads\Web app movil\Web app movil\Web app movil\bin\Web app movil.dll.config
+C:\Users\Jeremy Lopez\Downloads\Web app movil\Web app movil\Web app movil\bin\Web app movil.dll
+C:\Users\Jeremy Lopez\Downloads\Web app movil\Web app movil\Web app movil\bin\Web app movil.pdb
+C:\Users\Jeremy Lopez\Downloads\Web app movil\Web app movil\Web app movil\obj\Debug\Web app movil.dll
+C:\Users\Jeremy Lopez\Downloads\Web app movil\Web app movil\Web app movil\obj\Debug\Web app movil.pdb
+C:\Users\Jeremy Lopez\Downloads\Web app movil\Web app movil\Web app movil\obj\Debug\Web app movil.csprojResolveAssemblyReference.cache
